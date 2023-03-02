@@ -33,13 +33,13 @@ This project is about the website containing the collection of information of al
 ### Screenshots of some of the  Web Pages of this project :
 
  1. User interface of Blue-WildFlower-Club website
-<img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img1.PNG" width="100%"> 
+<img src="https://github.com/PrathuashaKB/Blue-WildFlower-Club/blob/main/images/screenshot1.PNG" width="100%"> 
 
  2. Sign-Up interface to get started with Blue-WildFlower-Club
-<img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img2.PNG" width="100%"> 
+<img src="https://github.com/PrathuashaKB/Blue-WildFlower-Club/blob/main/images/screenshot2.PNG" width="100%"> 
 
  3. Login interface to access their existing account
- <img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img2.PNG" width="100%"> 
+ <img src="https://github.com/PrathuashaKB/Blue-WildFlower-Club/blob/main/images/screenshot3.PNG" width="100%"> 
  
 #### "Suggestions and project improvement are invited"
 
