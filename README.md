@@ -8,7 +8,7 @@
 
 🌸*Blossom into the world of Blue Wildflowers!*
 
-Blue-WildFlower-Club is a self-developed responsive website that displays a collection of stunning [blue wildflowers](https://en.wikipedia.org/wiki/Blue_flower). Users can explore floral content freely or through a premium membership by joining the Blue-WildFlower-Club. This project was created independently to gain hands-on experience in front-end web development after completing :
+Blue WildFlower Club is a self-developed responsive website that displays a collection of stunning [blue wildflowers](https://en.wikipedia.org/wiki/Blue_flower). Users can explore floral content freely or through a premium membership by joining the Blue-WildFlower-Club. This project was created independently to gain hands-on experience in front-end web development after completing :
 
 - *The Complete Responsive Web Development Course* (Udemy)
 - *Learning Bootstrap 4* (Infosys Springboard)
